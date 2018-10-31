@@ -1,0 +1,26 @@
+sections
+	hero
+	intro pitch
+	about me
+	my skills/technology
+	my projects
+	contact
+
+hero
+	background image
+	self-writing text "my name is Rauno"
+	button: what's next
+pitch
+	some random stuff about me or an inspirational quote
+about me
+	my picture, a couple of sentences about me
+my skills
+	6 skills I posess and a couple of sentences about them
+	css, javascript, html, react, git, php
+my projects
+	mk
+	your project could be here, contact me here
+contact
+	form/just email
+	all social media
+	
